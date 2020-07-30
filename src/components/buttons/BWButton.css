@@ -1,0 +1,17 @@
+.BWButton {
+    background-color: transparent;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 4px;
+    color: #888;
+    text-shadow: 0 0 2px rgba(0,0,0, .1);
+    font-size: 16px;
+    outline: none;
+    transition: .5s ease;
+    cursor: pointer;
+    user-select: none;
+}
+
+.BWButton:hover {
+    color: #333;
+}

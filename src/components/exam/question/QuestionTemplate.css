@@ -1,0 +1,7 @@
+.QuestionTemplate p{
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    user-select: none;
+    color: #666;
+}

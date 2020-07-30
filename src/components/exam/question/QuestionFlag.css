@@ -1,0 +1,41 @@
+.QuestionFlagRow img,
+.QuestionFlagColumn img {
+    width: 24px;
+    height: 24px;
+    opacity: .7;
+    z-index: -1;
+}
+
+.QuestionFlagRow p,
+.QuestionFlagColumn p {
+    user-select: none;
+    min-width: 120px;
+    color: #888;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.QuestionFlagColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.QuestionFlagRow {
+    display: flex;
+}
+
+.QuestionFlagRow p {
+    flex: 1 1 0;
+}
+
+img::-moz-selection {
+    background-color: transparent;
+    color: #000;
+}
+
+img::selection {
+    background-color: transparent;
+    color: #000;
+}

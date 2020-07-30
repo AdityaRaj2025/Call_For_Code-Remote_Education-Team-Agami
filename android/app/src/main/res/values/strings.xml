@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">agami</string>
+    <string name="title_activity_main">agami</string>
+    <string name="package_name">io.ionic.remoteeducation</string>
+    <string name="custom_url_scheme">io.ionic.remoteeducation</string>
+</resources>

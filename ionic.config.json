@@ -1,0 +1,7 @@
+{
+    "name": "agami",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

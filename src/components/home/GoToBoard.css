@@ -1,0 +1,69 @@
+.bottom-wrap {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    /*display: block;
+    margin-left: 400px;
+    margin-right: 400px;*/
+}
+
+.gtb {
+    grid-column: 1 / -1;
+    background-color: #fff;
+    height: 200px;
+    text-align: center;
+    padding: 56px 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px 0 rgba(0,0,0, .1);
+    
+}
+
+.gtb.student {
+    border-bottom: 1px solid var(--bg-color);
+}
+
+.gtb .title {
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+}
+
+.gtb p {
+    font-size: 16px;
+    color: #888;
+}
+
+@media screen and (min-width: 768px) {
+    .bottom-wrap {
+        grid-gap: 32px;
+    }
+    
+    .gtb {
+        border-radius: 24px;
+        padding: 15% 20%;
+    }
+
+    .gtb.student {
+        border-bottom: none;
+    }
+
+    .student {
+        grid-column: 2 / 7;
+    }
+    
+    .teacher {
+        grid-column: 7 / 12;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .student {
+        grid-column: 3 / 7;
+    }
+    
+    .teacher {
+        grid-column: 7 / 11;
+    }
+}

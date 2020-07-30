@@ -1,0 +1,8 @@
+{
+    "appId": "io.ionic.remoteeducation",
+    "appName": "agami",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+  }
