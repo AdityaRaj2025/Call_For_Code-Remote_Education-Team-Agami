@@ -13,14 +13,14 @@
 ##### •	We have used WebRTC technology for live streaming classes. This technology provides real-time communication capabilities to the application that works on top of an open standard.
 ##### •	It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice and video communication solutions.
 
+<img src="newuml_page-0001.jpg" width="auto">
+
 ### Solution
 
-##### In this pandemic, students are facing major problems due to lack of regular classes. So, keeping this problem in mind, we have developed a web and mobile application where teachers can easily take online classes and students can attend it. This application supports some useful features like teachers can take online attendance as well as online exam which would be very helpful for the students and all these features are on single platform. This application is system independent which can run on any device.
+##### In this pandemic, students are facing major problems due to lack of regular classes. So, keeping this problem in mind, we have developed a web and mobile application where teachers can easily take online classes and students can attend it. This application supports some useful features like teachers can take online attendance as well as online exam which would be very helpful for the students and all these features are on single platform. This application is system independent which can run on any device. We are using IBM Cloud technologies which are secure and much faster. It also supports online classes and recording feature for those students who are not able to attend live classes due to some reasons. Those students can refer those online classes.
 
-##### We are using IBM Cloud technologies which are secure and much faster. It also supports online classes and recording feature for those students who are not able to attend live classes due to some reasons. Those students can refer those online classes.
+<img src="Untitled.jpg" width="auto">
 
 ### Explanation that why it’s better than existing system
 
-##### In existing system, features like online attendance and online exam is not available on single platform, teachers have to create separate attendance form for attendance and exam form for exam. Our system makes up these shortcomings. It provides features like online attendance and online exam on single platform which makes our system very effective. Teachers need not to create any separate form. Our system can work on low network bandwidth whereas in existing system connection gets disconnect when the network strength gets weaker. 
-
-##### This system is also available in mobile application as well as desktop application which provide very much flexibility to the users. Since, we are using ReactJS framework so that our system’s GUI is user-friendly. There is also a Chat Bot feature which is called Agami Assistant which informs the students regarding their class timings and exam timings which have been scheduled by the teachers.
+##### In existing system, features like online attendance and online exam is not available on single platform, teachers have to create separate attendance form for attendance and exam form for exam. Our system makes up these shortcomings. It provides features like online attendance and online exam on single platform which makes our system very effective. Teachers need not to create any separate form. Our system can work on low network bandwidth whereas in existing system connection gets disconnect when the network strength gets weaker. This system is also available in mobile application as well as desktop application which provide very much flexibility to the users. Since, we are using ReactJS framework so that our system’s GUI is user-friendly. There is also a Chat Bot feature which is called Agami Assistant which informs the students regarding their class timings and exam timings which have been scheduled by the teachers.
