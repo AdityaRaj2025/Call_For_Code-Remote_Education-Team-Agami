@@ -1,5 +1,7 @@
 # CALL FOR CODE - REMOTE EDUCATION - TEAM AGAMI
 
+<img src="vlcsnap-2020-07-31-15h37m50s124.png" width="auto">
+
 
 ## Real world problem
 
