@@ -44,15 +44,6 @@
 ## Student Test Page
 <img src="vlcsnap-2020-07-31-15h35m41s015.png" width="auto">
 
-## Student Attendence
-<img src="vlcsnap-2020-07-31-15h36m29s306.png" width="auto">
-
-## Student Live Class
-<img src="vlcsnap-2020-07-31-15h37m10s269.png" width="auto">
-
-## Teacher Online Test Dashboard
-<img src="vlcsnap-2020-07-31-15h37m10s269.png" width="auto">
-
 ## Screenshots of android app
 <img src="vlcsnap-2020-07-31-15h37m38s921.png" width="auto">
 
