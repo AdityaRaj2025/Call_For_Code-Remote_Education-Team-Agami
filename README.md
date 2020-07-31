@@ -34,9 +34,30 @@
 
 <img src="vlcsnap-2020-07-31-15h34m53s713.png" width="auto">
 
-## Agami Assistant (chatbot)
+## Agami Assistant (Chatbot)
 
 <img src="vlcsnap-2020-07-31-15h34m23s093.png" width="auto">
+
+## Student Online Test Dashboard
+<img src="Screenshot (684).png" width="auto">
+
+## Student Test Page
+<img src="vlcsnap-2020-07-31-15h35m41s015.png" width="auto">
+
+## Student Attendence
+<img src="vlcsnap-2020-07-31-15h36m29s306.png" width="auto">
+
+## Student Live Class
+<img src="vlcsnap-2020-07-31-15h37m10s269.png" width="auto">
+
+## Teacher Online Test Dashboard
+<img src="vlcsnap-2020-07-31-15h37m10s269.png" width="auto">
+
+## Screenshots of android app
+<img src="vlcsnap-2020-07-31-15h37m38s921.png" width="auto">
+
+<img src="vlcsnap-2020-07-31-15h37m28s908.png" width="auto">
+
 
 ### Demo video link
 https://youtu.be/HOZ7BWv2JAg
