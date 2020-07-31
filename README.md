@@ -28,5 +28,9 @@
 
 ##### In existing system, features like online attendance and online exam is not available on single platform, teachers have to create separate attendance form for attendance and exam form for exam. Our system makes up these shortcomings. It provides features like online attendance and online exam on single platform which makes our system very effective. Teachers need not to create any separate form. Our system can work on low network bandwidth whereas in existing system connection gets disconnect when the network strength gets weaker. This system is also available in mobile application as well as desktop application which provide very much flexibility to the users. Since, we are using ReactJS framework so that our system’s GUI is user-friendly. There is also a Chat Bot feature which is called Agami Assistant which informs the students regarding their class timings and exam timings which have been scheduled by the teachers.
 
+### Screenshots
+
+<img src="vlcsnap-2020-07-31-15h34m53s713.png" width="auto">
+
 ### Demo video link
 https://youtu.be/HOZ7BWv2JAg
