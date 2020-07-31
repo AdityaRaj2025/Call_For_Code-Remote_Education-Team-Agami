@@ -1,5 +1,6 @@
 # CALL FOR CODE - REMOTE EDUCATION - TEAM AGAMI
 
+
 ## Real world problem
 
 ##### Due to this Covid-19 pandemic, we all are facing problems in our day to day life. Especially, the impact of Covid-19 is highly on education system. Many students and teachers are not able to connect which is leading a bad impact on education system. Keeping this problem in mind, we have created a web application and mobile application through which teachers can take their classes online effectively as well as students can attend their online classes.
@@ -24,3 +25,6 @@
 ### Explanation that why it’s better than existing system
 
 ##### In existing system, features like online attendance and online exam is not available on single platform, teachers have to create separate attendance form for attendance and exam form for exam. Our system makes up these shortcomings. It provides features like online attendance and online exam on single platform which makes our system very effective. Teachers need not to create any separate form. Our system can work on low network bandwidth whereas in existing system connection gets disconnect when the network strength gets weaker. This system is also available in mobile application as well as desktop application which provide very much flexibility to the users. Since, we are using ReactJS framework so that our system’s GUI is user-friendly. There is also a Chat Bot feature which is called Agami Assistant which informs the students regarding their class timings and exam timings which have been scheduled by the teachers.
+
+### Demo video link
+https://youtu.be/HOZ7BWv2JAg
