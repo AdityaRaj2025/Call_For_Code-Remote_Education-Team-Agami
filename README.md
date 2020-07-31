@@ -1,17 +1,17 @@
-# TEAM AGAMI CALL FOR CODE
+# CALL FOR CODE - REMOTE EDUCATION - TEAM AGAMI
 
-# Real world problem
+## Real world problem
 
 ##### Due to this Covid-19 pandemic, we all are facing problems in our day to day life. Especially, the impact of Covid-19 is highly on education system. Many students and teachers are not able to connect which is leading a bad impact on education system. Keeping this problem in mind, we have created a web application and mobile application through which teachers can take their classes online effectively as well as students can attend their online classes.
 
 ### Technology used
 
 ##### •	In front-end, we have used ReactJS framework and middleware technologies that are IBM Cloud Foundry which is used to host the website.
-#####•	We have also used Docker container that encapsulates your application, runtime and dependencies.
-#####•	In back-end, we have used NodeJS for client-side and MongoDB for the database. 
-#####•	Using NodeJS, we can access local file system which is not allowed in the browser and it also exposes security vulnerabilities. 
-#####•	We have used WebRTC technology for live streaming classes. This technology provides real-time communication capabilities to the application that works on top of an open standard.
-#####•	It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice and video communication solutions.
+##### •	We have also used Docker container that encapsulates your application, runtime and dependencies.
+##### •	In back-end, we have used NodeJS for client-side and MongoDB for the database. 
+##### •	Using NodeJS, we can access local file system which is not allowed in the browser and it also exposes security vulnerabilities. 
+##### •	We have used WebRTC technology for live streaming classes. This technology provides real-time communication capabilities to the application that works on top of an open standard.
+##### •	It supports video, voice, and generic data to be sent between peers, allowing developers to build powerful voice and video communication solutions.
 
 ### Solution
 
